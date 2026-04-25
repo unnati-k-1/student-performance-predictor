@@ -77,7 +77,7 @@ const Index = () => {
           <h1 className="mb-3 text-4xl font-extrabold tracking-tight md:text-6xl">
             <span className="text-gradient-hero">🎓 Student Result</span>
             <br className="md:hidden" />
-            <span className="text-foreground"> Predictor</span>
+            <span className="text-foreground"> Predictor v2</span>
           </h1>
           <p className="mx-auto max-w-2xl text-base text-muted-foreground md:text-lg">
             Predict whether a student will <span className="font-semibold text-success">Pass</span> or{" "}
